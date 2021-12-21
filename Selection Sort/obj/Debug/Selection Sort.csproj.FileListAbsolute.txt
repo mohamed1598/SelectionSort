@@ -1,0 +1,7 @@
+G:\tasks\Algorithms\Selection Sort\Selection Sort\bin\Debug\Selection Sort.exe.config
+G:\tasks\Algorithms\Selection Sort\Selection Sort\bin\Debug\Selection Sort.exe
+G:\tasks\Algorithms\Selection Sort\Selection Sort\bin\Debug\Selection Sort.pdb
+G:\tasks\Algorithms\Selection Sort\Selection Sort\obj\Debug\Selection Sort.csprojAssemblyReference.cache
+G:\tasks\Algorithms\Selection Sort\Selection Sort\obj\Debug\Selection Sort.csproj.CoreCompileInputs.cache
+G:\tasks\Algorithms\Selection Sort\Selection Sort\obj\Debug\Selection Sort.exe
+G:\tasks\Algorithms\Selection Sort\Selection Sort\obj\Debug\Selection Sort.pdb
